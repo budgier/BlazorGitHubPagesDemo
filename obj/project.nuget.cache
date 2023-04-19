@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1+OhPm3lziAjo+agHkNbgpLAH+xKhmGiBHuUDqzhYx3xj2wx6bcXYG3e6wdOs2y1eETV3WXmSUB0b45oyybyJQ==",
+  "dgSpecHash": "E5H1TktkezOQGZW/gceRUFexK1W5esvTvICz7d4n9uZAPVFRLD7hS2lQgKt5BIAu/CPm2dJfximsG+KZOUidcA==",
   "success": true,
   "projectFilePath": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj",
   "expectedPackageFiles": [
@@ -31,7 +31,7 @@
     "C:\\Users\\A618150\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\A618150\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\A618150\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\A618150\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.3\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.3.nupkg.sha512"
+    "C:\\Users\\A618150\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.5.nupkg.sha512"
   ],
   "logs": []
 }
