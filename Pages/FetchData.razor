@@ -26,6 +26,7 @@ else
             @foreach (var forecast in forecasts)
             {
                 <tr>
+                    <td>@currentTime</td>
                     <td>@forecast.Date.ToShortDateString()</td>
                     <td>@forecast.TemperatureC</td>
                     <td>@forecast.TemperatureF</td>
@@ -36,12 +37,32 @@ else
     </table>
 }
 
+
+@code{
+private System.Timers.Timer timer;
+    private string currentTime = DateTime.Now.ToString("hh:mm:ss tt");
+
+    protected override void OnInitialized()
+    {
+        timer = new System.Timers.Timer(10000);
+        timer.Elapsed += (sender, args) => Timer_Elapsed(sender,args);
+        timer.AutoReset = true;
+        timer.Enabled = true;
+    }
+
+    private void Timer_Elapsed(object sender, System.Timers.ElapsedEventArgs e  )
+    {
+        currentTime = DateTime.Now.ToString("hh:mm:ss tt");
+        StateHasChanged();
+    }
+    }
 @code {
     private WeatherForecast[]? forecasts;
 
     protected override async Task OnInitializedAsync()
     {
         forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
+    
     }
 
     public class WeatherForecast
@@ -50,8 +71,8 @@ else
 
         public int TemperatureC { get; set; }
 
-        public string? Summary { get; set; }
+        public string? Summary { get; set; }    
 
-        public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+        public int TemperatureF => 32 + (int)(TemperatureC / 0.5556); // Conversion from Celsius to Fahrenheit
     }
 }

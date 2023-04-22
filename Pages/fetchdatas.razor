@@ -1,0 +1,22 @@
+﻿@page "/fetchdatas"
+
+<div id="updating-element">@currentTime</div>
+
+@code {
+    private System.Timers.Timer timer;
+    private string currentTime = DateTime.Now.ToString("hh:mm:ss tt");
+
+    protected override void OnInitialized()
+    {
+        timer = new System.Timers.Timer(1000);
+        timer.Elapsed += (sender, args) => Timer_Elapsed(sender,args);
+        timer.AutoReset = true;
+        timer.Enabled = true;
+    }
+
+    private void Timer_Elapsed(object sender, System.Timers.ElapsedEventArgs e  )
+    {
+        currentTime = DateTime.Now.ToString("hh:mm:ss tt");
+        StateHasChanged();
+    }
+}
