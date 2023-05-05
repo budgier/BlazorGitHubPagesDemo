@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorGitHubPagesDemo", "BlazorGitHubPagesDemo.csproj", "{3B4187E9-7F34-436A-A0ED-EE53C5036DAA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jira-to-GPT-service", "..\Jira-to-GPT-service\Jira-to-GPT-service.csproj", "{18070CEE-FC16-4D5E-A0D0-964C5C7EF230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B4187E9-7F34-436A-A0ED-EE53C5036DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4187E9-7F34-436A-A0ED-EE53C5036DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4187E9-7F34-436A-A0ED-EE53C5036DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4187E9-7F34-436A-A0ED-EE53C5036DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18070CEE-FC16-4D5E-A0D0-964C5C7EF230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18070CEE-FC16-4D5E-A0D0-964C5C7EF230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18070CEE-FC16-4D5E-A0D0-964C5C7EF230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18070CEE-FC16-4D5E-A0D0-964C5C7EF230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39F43400-5BA4-4F2C-819B-E60FD89C6D6B}
+	EndGlobalSection
+EndGlobal
