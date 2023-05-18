@@ -27,6 +27,7 @@ namespace ll
             builder.OpenElement(0, "div");
             builder.AddContent(1, $"This component updates every second! {DateTime.Now}");
             builder.CloseElement();
+           
         }
     }
 }

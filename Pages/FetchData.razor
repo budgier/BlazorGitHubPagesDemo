@@ -32,7 +32,7 @@ else
                     <td>@forecast.TemperatureF</td>
                     <td>@forecast.Summary</td>
                 </tr>
-            }
+            } 
         </tbody>
     </table>
 }
@@ -48,6 +48,7 @@ private System.Timers.Timer timer;
         timer.Elapsed += (sender, args) => Timer_Elapsed(sender,args);
         timer.AutoReset = true;
         timer.Enabled = true;
+
     }
 
     private void Timer_Elapsed(object sender, System.Timers.ElapsedEventArgs e  )
@@ -56,6 +57,8 @@ private System.Timers.Timer timer;
         StateHasChanged();
     }
     }
+
+  
 @code {
     private WeatherForecast[]? forecasts;
 

@@ -1,0 +1,41 @@
+﻿@page "/update"
+
+
+<PageTitle>update</PageTitle>
+
+
+<h1>!!!!!</h1>
+
+Vitaj a nic nepytaj
+	
+<ll.MyUpdatingComponent> 
+	</ll.MyUpdatingComponent>
+
+@code{
+
+	HttpClient http = new HttpClient();
+
+	string ps;
+	
+	//protected override void OnInitialized()
+	//{
+		
+	//		 FetchData();
+
+	//}
+		
+
+
+	public async Task FetchData()
+	{
+		var response = await http.GetAsync("https://localhost:5001/api/Values");
+		var content =  response.Content.ReadAsStringAsync();
+		ps = "kk";
+
+		StateHasChanged();
+
+	}
+
+	 
+}
+ 
