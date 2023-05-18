@@ -16,6 +16,21 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.3" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.3" PrivateAssets="all" />
   </ItemGroup>
+   <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>bin\net7.0\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Pokerstars">
+      <HintPath>bin\net7.0Pokerstars.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.ClientEngine">
+      <HintPath>bin\net7.0\SuperSocket.ClientEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="WebSocket4Net">
+      <HintPath>bin\net7.0\WebSocket4Net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 
  
 
