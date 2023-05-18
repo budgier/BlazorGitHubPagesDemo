@@ -10,7 +10,7 @@ using System.Security.AccessControl;
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
-builder.Services.AddSingleton(ps => new Pokerstars.Class1());
+
   
 ArgumentNullException.ThrowIfNull(args, "args");
 
