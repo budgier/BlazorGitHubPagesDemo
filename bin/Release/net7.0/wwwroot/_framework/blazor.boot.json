@@ -198,13 +198,18 @@
       "mscorlib.dll": "sha256-qqpKd+W+AFb6UxudEYEKzrz7ma81p5LrWUwPBVvHV4U=",
       "netstandard.dll": "sha256-OYYuPT3JUknj4LdYIa58zF7kDB3tCnLzjCSuhEjtKXM=",
       "System.Private.CoreLib.dll": "sha256-EVS7zPxPV\/41g2mzPwdXtwiigWxI\/SeAHme1IgyD6tc=",
-      "BlazorGitHubPagesDemo.dll": "sha256-3GdGpvLIE9uAppTQzW8dZG9MmyQtoZi5+c\/t+ltf2Cc="
+      "Newtonsoft.Json.dll": "sha256-lz\/XDOSOWsQzoQG0KHFoDFHi\/roq7sPUAN6kEVrzong=",
+      "Pokerstars.dll": "sha256-etioc9FVpqu5v68ZF1lHPU+DDTIsBsJFBn0dKpM0bYU=",
+      "SuperSocket.ClientEngine.dll": "sha256-t0H778hXbzBd8kSRj6PTuxZzU7P8RKLLZm7lIIq5Uyc=",
+      "WebSocket4Net.dll": "sha256-qFULnHtolcGOc7kDBkURuZmCvZkox9zvqsFLWS0gG3M=",
+      "BlazorGitHubPagesDemo.dll": "sha256-VvomYgM0Sjol7PvCKfCsqXUydhfJYZH8hZSTjhWOmro="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BlazorGitHubPagesDemo.pdb": "sha256-FHgiHWEjDR6wle5UhRkKw2VUpIk9DpvuJuwr30UXBUg="
+      "Pokerstars.pdb": "sha256-D6x1MhnrRET6WHFJ58UaH5rrF8yaCTPjqtoBg22NO5w=",
+      "BlazorGitHubPagesDemo.pdb": "sha256-7F+4a2q3SbWNXgneLyHAGFQOHbahwG5i632e9MVbg2I="
     },
     "runtime": {
       "dotnet.7.0.5.hv50z2m3hv.js": "sha256-codB25EodaFEP43MDCfMBuKXU4LqurUKnQrpoMIFnPs=",
