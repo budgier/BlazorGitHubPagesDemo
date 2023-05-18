@@ -21,19 +21,6 @@
     <None Include="Pages\fetchdatas.razor" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>..\..\..\..\Downloads\Downloads\ConsoleApp2\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="Pokerstars">
-      <HintPath>..\..\..\..\Downloads\Downloads\ConsoleApp2\Pokerstars\bin\Debug\net6.0\Pokerstars.dll</HintPath>
-    </Reference>
-    <Reference Include="SuperSocket.ClientEngine">
-      <HintPath>..\..\..\..\Downloads\Downloads\ConsoleApp2\Pokerstars\bin\Debug\net6.0\SuperSocket.ClientEngine.dll</HintPath>
-    </Reference>
-    <Reference Include="WebSocket4Net">
-      <HintPath>..\..\..\..\Downloads\Downloads\ConsoleApp2\selenium\bin\Debug\WebSocket4Net.dll</HintPath>
-    </Reference>
-  </ItemGroup>
+  
 
 </Project>
