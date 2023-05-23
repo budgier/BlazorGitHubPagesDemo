@@ -1,38 +1,39 @@
-﻿@page "/update"
+﻿@page "/Update"
 
 
 <PageTitle>update</PageTitle>
 
 
-<h1>!!!!!</h1>
+<h1>@dynamicData</h1>
 
-Vitaj a nic nepytaj
+ 
 	
-<ll.MyUpdatingComponent> 
-	</ll.MyUpdatingComponent>
 
+    
+    
 @code{
 
 	HttpClient http = new HttpClient();
 
-	string ps;
-	
-	//protected override void OnInitialized()
-	//{
-		
-	//		 FetchData();
 
-	//}
-		
+	private string dynamicData;
+	private Timer timer;
+
+	protected override async Task OnInitializedAsync()
+	{
+		timer = new Timer(async _ =>
+		{
+			await FetchData();
+			StateHasChanged();
+		}, null, TimeSpan.Zero, TimeSpan.FromSeconds(1));
+	}
+
+
 
 
 	public async Task FetchData()
 	{
-		var response = await http.GetAsync("https://localhost:5001/api/Values");
-		var content =  response.Content.ReadAsStringAsync();
-		ps = "kk";
-
-		StateHasChanged();
+		dynamicData = await http.GetStringAsync("https://www.betano.cz/signalr/negotiate?clientProtocol=1.5&connectionData=%5B%5D");
 
 	}
 

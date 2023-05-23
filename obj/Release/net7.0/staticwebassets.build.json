@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z37YlX8Lb0Xzbw5ao6CdWdoDcL3VPsvBhp3SS0xiw8o=",
+  "Hash": "lC/4qmBR39GWH9mWl5N1/wi4qujQinOuOOgK2vArlc4=",
   "Source": "BlazorGitHubPagesDemo",
   "BasePath": "/",
   "Mode": "Root",
@@ -48,7 +48,7 @@
       "AssetTraitValue": "boot",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.3\\build\\net7.0\\blazor.webassembly.js"
+      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.5\\build\\net7.0\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\BlazorGitHubPagesDemo.dll",
@@ -218,7 +218,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.3\\lib\\net7.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -235,7 +235,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.3\\lib\\net7.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -252,7 +252,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.3\\lib\\net7.0\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
@@ -269,7 +269,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.3\\lib\\net7.0\\Microsoft.AspNetCore.Components.Web.dll"
+      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
@@ -286,7 +286,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.3\\lib\\net7.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
+      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
@@ -303,7 +303,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.3\\lib\\net7.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.5\\lib\\net7.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -354,7 +354,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.3\\lib\\net7.0\\Microsoft.Extensions.Configuration.Binder.dll"
+      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.4\\lib\\net7.0\\Microsoft.Extensions.Configuration.Binder.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.dll",
@@ -575,7 +575,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.jsinterop\\7.0.3\\lib\\net7.0\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.jsinterop\\7.0.5\\lib\\net7.0\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
@@ -592,7 +592,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.3\\lib\\net7.0\\Microsoft.JSInterop.WebAssembly.dll"
+      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.5\\lib\\net7.0\\Microsoft.JSInterop.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.dll",
@@ -711,41 +711,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\Downloads\\Downloads\\ConsoleApp2\\packages\\Newtonsoft.Json.10.0.3\\lib\\net45\\Newtonsoft.Json.dll"
-    },
-    {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Pokerstars.dll",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Pokerstars.dll",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "runtime",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\Downloads\\Downloads\\ConsoleApp2\\Pokerstars\\bin\\Debug\\net6.0\\Pokerstars.dll"
-    },
-    {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Pokerstars.pdb",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Pokerstars.pdb",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "symbol",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\Downloads\\Downloads\\ConsoleApp2\\Pokerstars\\bin\\Debug\\net6.0\\Pokerstars.pdb"
+      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Debug\\net7.0\\Newtonsoft.Json.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\SuperSocket.ClientEngine.dll",
@@ -762,7 +728,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\Downloads\\Downloads\\ConsoleApp2\\Pokerstars\\bin\\Debug\\net6.0\\SuperSocket.ClientEngine.dll"
+      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Debug\\net7.0\\SuperSocket.ClientEngine.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.AppContext.dll",
@@ -3516,7 +3482,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\Downloads\\Downloads\\ConsoleApp2\\selenium\\bin\\Debug\\WebSocket4Net.dll"
+      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Debug\\net7.0\\WebSocket4Net.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\WindowsBase.dll",
@@ -3553,21 +3519,21 @@
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Xml.Linq.dll"
     },
     {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\+em4RqN9.gz",
+      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\+gJ1e9bC.gz",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/WebSocket4Net.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\WebSocket4Net.dll",
+      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\WebSocket4Net.dll"
+      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\+kyrpKzm.gz",
@@ -3672,6 +3638,23 @@
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.ComponentModel.Primitives.dll"
     },
     {
+      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\0xCFgx+M.gz",
+      "SourceId": "BlazorGitHubPagesDemo",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Newtonsoft.Json.dll"
+    },
+    {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\0z1FOLKQ.gz",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Computed",
@@ -3721,23 +3704,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Net.Ping.dll"
-    },
-    {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\2qMSzdpj.gz",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/blazor.webassembly.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\3+VOkN6P.gz",
@@ -4063,6 +4029,23 @@
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
+      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\8wPMsvoQ.gz",
+      "SourceId": "BlazorGitHubPagesDemo",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/blazor.webassembly.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js"
+    },
+    {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\9lr03g1z.gz",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Computed",
@@ -4182,6 +4165,23 @@
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Reflection.dll"
     },
     {
+      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\B2PBneuf.gz",
+      "SourceId": "BlazorGitHubPagesDemo",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Configuration.Binder.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.dll"
+    },
+    {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\BADj7fdf.gz",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Computed",
@@ -4248,6 +4248,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Transactions.Local.dll"
+    },
+    {
+      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\bTHY+Oma.gz",
+      "SourceId": "BlazorGitHubPagesDemo",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\BYLSUt3N.gz",
@@ -4522,23 +4539,6 @@
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Threading.Tasks.Parallel.dll"
     },
     {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\DmhM7G5X.gz",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
-    },
-    {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\DsD72g+Y.gz",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Computed",
@@ -4675,23 +4675,6 @@
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Net.WebSockets.dll"
     },
     {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\f7kAz1Lx.gz",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Pokerstars.pdb.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Pokerstars.pdb",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Pokerstars.pdb"
-    },
-    {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\fAlnm4zt.gz",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Computed",
@@ -4724,6 +4707,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Transactions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\fEi4dHHL.gz",
+      "SourceId": "BlazorGitHubPagesDemo",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\FFeWFBDk.gz",
@@ -4945,23 +4945,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Diagnostics.StackTrace.dll"
-    },
-    {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\I9Ev8eAL.gz",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Configuration.Binder.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\IestyBOq.gz",
@@ -5304,23 +5287,6 @@
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.ValueTuple.dll"
     },
     {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\k9hxy813.gz",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll"
-    },
-    {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\kO9A+V64.gz",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Computed",
@@ -5508,6 +5474,23 @@
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Security.Cryptography.Encoding.dll"
     },
     {
+      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\LbESnXO0.gz",
+      "SourceId": "BlazorGitHubPagesDemo",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/WebSocket4Net.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\WebSocket4Net.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\WebSocket4Net.dll"
+    },
+    {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\lWaFwRm7.gz",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Computed",
@@ -5559,23 +5542,6 @@
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.dll"
     },
     {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\mtRNWg5H.gz",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
-    },
-    {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\mxonkinb.gz",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Computed",
@@ -5608,6 +5574,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.ComponentModel.Annotations.dll"
+    },
+    {
+      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\NbXeXNK3.gz",
+      "SourceId": "BlazorGitHubPagesDemo",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/SuperSocket.ClientEngine.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\SuperSocket.ClientEngine.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\SuperSocket.ClientEngine.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\NFv6dicm.gz",
@@ -5729,6 +5712,23 @@
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.FileExtensions.dll"
     },
     {
+      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\O+VIdhCa.gz",
+      "SourceId": "BlazorGitHubPagesDemo",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
+    },
+    {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\o+xiLgT0.gz",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Computed",
@@ -5829,40 +5829,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Security.Cryptography.OpenSsl.dll"
-    },
-    {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\OMl79Fjp.gz",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
-    },
-    {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\OtEocfNT.gz",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\OysS1WtR.gz",
@@ -6222,23 +6188,6 @@
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Net.Http.Json.dll"
     },
     {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\R60TBtbb.gz",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
-    },
-    {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\RnsVZbO2.gz",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Computed",
@@ -6373,23 +6322,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Collections.dll"
-    },
-    {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\SxbGN4Iu.gz",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/SuperSocket.ClientEngine.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\SuperSocket.ClientEngine.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\SuperSocket.ClientEngine.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\T6UF8g0E.gz",
@@ -6528,6 +6460,23 @@
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Runtime.CompilerServices.Unsafe.dll"
     },
     {
+      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\Uh0Fpmy0.gz",
+      "SourceId": "BlazorGitHubPagesDemo",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll"
+    },
+    {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\uU+qiYAo.gz",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Computed",
@@ -6647,23 +6596,6 @@
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Globalization.Extensions.dll"
     },
     {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\V9sHpPbL.gz",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
-    },
-    {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\vhp+sHuw.gz",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Computed",
@@ -6698,23 +6630,6 @@
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\VpjSKJ2j.gz",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
-    },
-    {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\vqPUCwfe.gz",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Computed",
@@ -6732,23 +6647,6 @@
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Text.RegularExpressions.dll"
     },
     {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\vUn4hrsR.gz",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Pokerstars.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Pokerstars.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Pokerstars.dll"
-    },
-    {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\vvTnh96P.gz",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Computed",
@@ -6764,23 +6662,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Numerics.Vectors.dll"
-    },
-    {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\w69Q6rXu.gz",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Newtonsoft.Json.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Newtonsoft.Json.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\wIoNrfb4.gz",
@@ -6834,6 +6715,40 @@
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Security.Cryptography.Algorithms.dll"
     },
     {
+      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\XGzudjFr.gz",
+      "SourceId": "BlazorGitHubPagesDemo",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
+    },
+    {
+      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\XvyDWUmi.gz",
+      "SourceId": "BlazorGitHubPagesDemo",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
+    },
+    {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\YakNpHX+.gz",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Computed",
@@ -6849,6 +6764,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\System.Collections.Immutable.dll"
+    },
+    {
+      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\YB5MfVaA.gz",
+      "SourceId": "BlazorGitHubPagesDemo",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Release\\net7.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\Release\\net7.0\\build-gz\\ydym6S8t.gz",
