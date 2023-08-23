@@ -3,6 +3,9 @@
   "config": [ ],
   "debugBuild": true,
   "entryAssembly": "BlazorGitHubPagesDemo",
+  "extensions": {
+    "blazor": { }
+  },
   "icuDataMode": 0,
   "linkerEnabled": false,
   "resources": {
@@ -201,13 +204,13 @@
       "Newtonsoft.Json.dll": "sha256-lz\/XDOSOWsQzoQG0KHFoDFHi\/roq7sPUAN6kEVrzong=",
       "SuperSocket.ClientEngine.dll": "sha256-t0H778hXbzBd8kSRj6PTuxZzU7P8RKLLZm7lIIq5Uyc=",
       "WebSocket4Net.dll": "sha256-qFULnHtolcGOc7kDBkURuZmCvZkox9zvqsFLWS0gG3M=",
-      "BlazorGitHubPagesDemo.dll": "sha256-3b1YNGpLvKG7J590imK9GMBAJ+Zk0El9kvL5By6bOnk="
+      "BlazorGitHubPagesDemo.dll": "sha256-\/8wGH4UNcj039jh4zV0jB5a9fFVnT5qOnb93pPj2BVA="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BlazorGitHubPagesDemo.pdb": "sha256-KPKPubvqYGCvy3dPUU\/MXfeV3JcDo7rdlLwQ0bAw6aM="
+      "BlazorGitHubPagesDemo.pdb": "sha256-a0UWwbZk4xwYCOqTa8leQPEOTdZg+wPKd33bvgXMvlg="
     },
     "runtime": {
       "dotnet.7.0.5.hv50z2m3hv.js": "sha256-codB25EodaFEP43MDCfMBuKXU4LqurUKnQrpoMIFnPs=",
@@ -225,5 +228,7 @@
       }
     },
     "satelliteResources": null
-  }
+  },
+  "runtimeOptions": null,
+  "startupMemoryCache": null
 }

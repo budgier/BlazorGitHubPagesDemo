@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kFC2Qeyxc24cs01vJxM5/a7fP6bqI/eHj+1VAiRuL6NECJ3m2vUKCRurg6G4agMuHqGyZ0JdL6jZ3WQgChki4A==",
+  "dgSpecHash": "2UQjLJKSNOaqVAbcskoqO3Ac9SPftCopS53YqpJ21K+5xY1oY7TnCbwRo0VmWWUQmCMFdg15FnHjjh7Q56z/xQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj",
   "expectedPackageFiles": [
@@ -28,9 +28,14 @@
     "C:\\Users\\A618150\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\A618150\\.nuget\\packages\\microsoft.jsinterop\\7.0.5\\microsoft.jsinterop.7.0.5.nupkg.sha512",
     "C:\\Users\\A618150\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.5\\microsoft.jsinterop.webassembly.7.0.5.nupkg.sha512",
+    "C:\\Users\\A618150\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23062.2\\microsoft.net.illink.tasks.7.0.100-1.23062.2.nupkg.sha512",
+    "C:\\Users\\A618150\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.0-preview.4.23259.5\\microsoft.net.sdk.webassembly.pack.8.0.0-preview.4.23259.5.nupkg.sha512",
     "C:\\Users\\A618150\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\A618150\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\A618150\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\A618150\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.5\\microsoft.windowsdesktop.app.ref.7.0.5.nupkg.sha512",
+    "C:\\Users\\A618150\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.5\\microsoft.netcore.app.ref.7.0.5.nupkg.sha512",
+    "C:\\Users\\A618150\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.5\\microsoft.aspnetcore.app.ref.7.0.5.nupkg.sha512",
     "C:\\Users\\A618150\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.5.nupkg.sha512"
   ],
   "logs": []
