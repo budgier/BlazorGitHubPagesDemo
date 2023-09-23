@@ -204,13 +204,13 @@
       "Newtonsoft.Json.dll": "sha256-lz\/XDOSOWsQzoQG0KHFoDFHi\/roq7sPUAN6kEVrzong=",
       "SuperSocket.ClientEngine.dll": "sha256-t0H778hXbzBd8kSRj6PTuxZzU7P8RKLLZm7lIIq5Uyc=",
       "WebSocket4Net.dll": "sha256-qFULnHtolcGOc7kDBkURuZmCvZkox9zvqsFLWS0gG3M=",
-      "BlazorGitHubPagesDemo.dll": "sha256-\/8wGH4UNcj039jh4zV0jB5a9fFVnT5qOnb93pPj2BVA="
+      "BlazorGitHubPagesDemo.dll": "sha256-zQodakxZbB4XwK+td5zYi4WR7nrZ3Y54GGf4Z3W9Kdk="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BlazorGitHubPagesDemo.pdb": "sha256-a0UWwbZk4xwYCOqTa8leQPEOTdZg+wPKd33bvgXMvlg="
+      "BlazorGitHubPagesDemo.pdb": "sha256-O5D+3azJG38KqYlyhPHwMrs5B2Ncm2YKGk26GlBJ6ng="
     },
     "runtime": {
       "dotnet.7.0.5.hv50z2m3hv.js": "sha256-codB25EodaFEP43MDCfMBuKXU4LqurUKnQrpoMIFnPs=",

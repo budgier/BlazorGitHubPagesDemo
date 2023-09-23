@@ -10,16 +10,12 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Azure.AI.OpenAI.dll": "sha256-7W733ycr5Hjwl8yYXo315GrxUVL9DGns4cql+EYJdhE=",
-      "Azure.Core.dll": "sha256-\/9LA0fQsCA+3Tn0iSbFbvCqH0J5DstXErgszzwW+AfQ=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-\/EkWRHMHBhfvvlx5hLVtXGPm8+Gyp4WkPiKKiiJIrqQ=",
       "Microsoft.AspNetCore.Components.dll": "sha256-SvjxqyTqc68zPsYivPRkvjKRhUg5zYufzqwGNS83bwg=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-eoQ2CgfBGkvbK4QUMBgFDPIBqJem+g8247Fb3ZmnmCI=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-p3BQFPwUbOgu5j9V+1HlUGwDcVzB7iYNO4dIsDCOAgA=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-55+LOYcA1yHHPQEjl6eI0UGgteq41y+8js6DQ5PhXDk=",
       "Microsoft.AspNetCore.Metadata.dll": "sha256-eIu14RWCV9bKCAARda4hnWGsOKJfmnGfQpkmeRnSibQ=",
-      "Microsoft.Bcl.AsyncInterfaces.dll": "sha256-VwXSRQctPreEAFR7MhR9u24siwK6i9p2cpeY9e\/erss=",
-      "Microsoft.Bcl.HashCode.dll": "sha256-y5+O+HE1PNgSn0TwPo3hH4YjhuwltS3gYIkrSTD2QOs=",
       "Microsoft.Extensions.Configuration.dll": "sha256-PqQvp77oZ4+uuy2ElXk8AU9I6RfZSf18UGTrd4rulOo=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-CnS3b9EMFQmETBUVEgtcron4DBsfFdcVt3zfCP6Uflg=",
       "Microsoft.Extensions.Configuration.Binder.dll": "sha256-7GY9+7Cm0Z8DJ+JCFwgCx9OfFtUvXlFHaaLlBYmXfIE=",
@@ -36,15 +32,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-q4ruoDSCjV\/QJY9ZkzV6uxvEvZUVrDbyUjU3SSh5SlE=",
       "Microsoft.JSInterop.dll": "sha256-OBt2YgODs1L5bJWrDjUFgcgGMUjDfmFTHCt9t69RxgU=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-GH0zLXwtZcak53A9656ZndP15W57wd1W0kLvKDIV+VE=",
-      "Microsoft.SemanticKernel.dll": "sha256-kMFMPSOLpDxsln0afkwrbuWBTBjHYjrpAaZnUzH3TR8=",
-      "Microsoft.SemanticKernel.Abstractions.dll": "sha256-p6x6aDsNdktxxroZxRU74L0heDScL0yKDvDXsgicGwo=",
-      "Microsoft.SemanticKernel.Connectors.AI.OpenAI.dll": "sha256-Y1ABC9bT\/CD8Z9x36RyWM6WHFsxMqEtzAVmDU0cyHoc=",
-      "Microsoft.SemanticKernel.Core.dll": "sha256-bHPIr7sfI+nMIz5u+0niBmYmvNX4CMCXLo0tHCg0Pqg=",
-      "Microsoft.SemanticKernel.Planning.ActionPlanner.dll": "sha256-o3Fi8zm3Df0MczdRzq68Bk2SN\/r3wMoMbY+ofEjvORw=",
-      "Microsoft.SemanticKernel.Planning.SequentialPlanner.dll": "sha256-Rh0JH5kFeLLyAjluBm+tqIbPN8yRvXpAD4a7YjiEkFc=",
-      "Microsoft.SemanticKernel.Skills.Core.dll": "sha256-jjND06zZkDbTMw\/Cxzqy5n3ey\/QOKjmi94geLiH0KCw=",
       "System.IO.Pipelines.dll": "sha256-P\/MqD0fCBd5bgTM16JC1QC\/Zz7s+CwViyzmDFkBG4\/c=",
-      "System.Memory.Data.dll": "sha256-KTyl2GNY+yzgDaAsY+78s0Ron8DGNrYcl8PxsVqAqlE=",
       "Microsoft.CSharp.dll": "sha256-6Y1rN8knL1K5x5lsZ2tEVDND2h4LtDSuVgCg1N8ghkA=",
       "Microsoft.VisualBasic.Core.dll": "sha256-LRJ4hN7opopr3bsogxcz7uyVjh4bNZOdMbVbIIQ9z+8=",
       "Microsoft.VisualBasic.dll": "sha256-xkUVMleH\/xQU+9disGUzBr7fT6ckmem5\/CMscxtghD8=",
@@ -216,13 +204,13 @@
       "Newtonsoft.Json.dll": "sha256-lz\/XDOSOWsQzoQG0KHFoDFHi\/roq7sPUAN6kEVrzong=",
       "SuperSocket.ClientEngine.dll": "sha256-t0H778hXbzBd8kSRj6PTuxZzU7P8RKLLZm7lIIq5Uyc=",
       "WebSocket4Net.dll": "sha256-qFULnHtolcGOc7kDBkURuZmCvZkox9zvqsFLWS0gG3M=",
-      "BlazorGitHubPagesDemo.dll": "sha256-CBR7j+ta93MYpyHkgY+tAtpVcAqwJaNNzTIgzAOQSkk="
+      "BlazorGitHubPagesDemo.dll": "sha256-5ATelp+ElGXZ+Aq0mMaahFpMyqWF\/Q9uYrHQYi\/uSCE="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BlazorGitHubPagesDemo.pdb": "sha256-rQg7NjrfdKPGB+8pD8iniVag07ircsM7vBXz+G4Rb3w="
+      "BlazorGitHubPagesDemo.pdb": "sha256-qtPc34sly2gYr3exAa1XSI7pGSGEpnsqd2ykcgZKKrU="
     },
     "runtime": {
       "dotnet.7.0.5.hv50z2m3hv.js": "sha256-codB25EodaFEP43MDCfMBuKXU4LqurUKnQrpoMIFnPs=",

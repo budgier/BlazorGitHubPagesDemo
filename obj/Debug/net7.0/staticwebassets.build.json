@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9YswFxPZixnJHQ9I4XzXO2OfkQ7k3ox6xHEeNoMA0JU=",
+  "Hash": "zTMMu2QhxWwPwtVHhW02nfhALH6fVauo2/jntToLcMI=",
   "Source": "BlazorGitHubPagesDemo",
   "BasePath": "/",
   "Mode": "Root",
@@ -136,23 +136,6 @@
       "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\runtimes\\browser-wasm\\native\\dotnet.wasm"
     },
     {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt.dat",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Debug\\net7.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt.dat",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "WasmResource",
-      "AssetTraitValue": "native",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\runtimes\\browser-wasm\\native\\icudt.dat"
-    },
-    {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Computed",
@@ -202,6 +185,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+    },
+    {
+      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt.dat",
+      "SourceId": "BlazorGitHubPagesDemo",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt.dat",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "native",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\A618150\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.5\\runtimes\\browser-wasm\\native\\icudt.dat"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\bin\\Debug\\net7.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
@@ -7072,6 +7072,23 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "BlazorGitHubPagesDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorGitHubPagesDemo",
       "SourceType": "Discovered",
@@ -7172,23 +7189,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
-    },
-    {
-      "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "BlazorGitHubPagesDemo",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\wwwroot\\css\\open-iconic\\ICON-LICENSE",

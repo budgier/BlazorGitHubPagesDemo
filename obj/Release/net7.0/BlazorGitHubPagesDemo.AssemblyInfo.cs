@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorGitHubPagesDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19729d1e26ea63fa49e2abd5cbd86ad4b83f0f21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorGitHubPagesDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorGitHubPagesDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
