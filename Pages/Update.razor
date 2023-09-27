@@ -6,24 +6,23 @@
 
 <h1>@dynamicData</h1>
 
-<ul><DataAnnotationsValidator>kk</DataAnnotationsValidator>
-<li>1</li>
-<li>2 </li>
-</ul>
- 
-    
-@code{
 
+
+<li>kk</li>    
+
+
+@code{
+	
 	HttpClient http = new HttpClient();
 
 
 	private string dynamicData;
 	private Timer timer;
 
-	
 
 	protected override async Task OnInitializedAsync()
 	{
+		
 		timer = new Timer(async _ =>
 		{
 			await FetchData();
@@ -33,8 +32,7 @@
 
 	public async Task FetchData()
 	{
-
-
+		
 		dynamicData = await http.GetStringAsync("https://www.betano.cz/signalr/negotiate?clientProtocol=1.5&connectionData=%5B%5D");
 	}
 
