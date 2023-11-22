@@ -1,5 +1,5 @@
 ﻿@page "/Update"
-
+@inject HttpClient http
 
 <PageTitle>update</PageTitle>
 
@@ -8,14 +8,8 @@
 
 
 
-<li>kk</li>    
-
-
 @code{
 	
-	HttpClient http = new HttpClient();
-
-
 	private string dynamicData;
 	private Timer timer;
 
@@ -27,8 +21,10 @@
 		{
 			await FetchData();
 			StateHasChanged();
-		}, null, TimeSpan.Zero, TimeSpan.FromSeconds(1));
+		}, null, TimeSpan.Zero, TimeSpan.FromSeconds(3));
 	}
+
+
 
 	public async Task FetchData()
 	{

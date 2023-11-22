@@ -1,1 +1,0 @@
-C:\Users\A618150\source\repos\BlazorApp1\BlazorGitHubPagesDemo\bin\Release\net7.0\publish\web.config

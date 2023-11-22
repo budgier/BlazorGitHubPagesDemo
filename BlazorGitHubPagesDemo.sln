@@ -5,9 +5,7 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorGitHubPagesDemo", "BlazorGitHubPagesDemo.csproj", "{3B4187E9-7F34-436A-A0ED-EE53C5036DAA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jira-to-GPT-service", "..\Jira-to-GPT-service\Jira-to-GPT-service.csproj", "{18070CEE-FC16-4D5E-A0D0-964C5C7EF230}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevensteinDistance", "..\LevensteinDistance\LevensteinDistance.csproj", "{03B88A4F-26EF-4328-A69B-09589D54AC76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LevensteinDistance", "..\LevensteinDistance\LevensteinDistance.csproj", "{03B88A4F-26EF-4328-A69B-09589D54AC76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,6 @@ Global
 		{3B4187E9-7F34-436A-A0ED-EE53C5036DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B4187E9-7F34-436A-A0ED-EE53C5036DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B4187E9-7F34-436A-A0ED-EE53C5036DAA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{18070CEE-FC16-4D5E-A0D0-964C5C7EF230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{18070CEE-FC16-4D5E-A0D0-964C5C7EF230}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{18070CEE-FC16-4D5E-A0D0-964C5C7EF230}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{18070CEE-FC16-4D5E-A0D0-964C5C7EF230}.Release|Any CPU.Build.0 = Release|Any CPU
 		{03B88A4F-26EF-4328-A69B-09589D54AC76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{03B88A4F-26EF-4328-A69B-09589D54AC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03B88A4F-26EF-4328-A69B-09589D54AC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
