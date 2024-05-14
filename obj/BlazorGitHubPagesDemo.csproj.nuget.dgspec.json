@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj": {}
+    "C:\\Users\\a618150\\Source\\Repos\\budgier\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj": {
+    "C:\\Users\\a618150\\Source\\Repos\\budgier\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj",
+        "projectUniqueName": "C:\\Users\\a618150\\Source\\Repos\\budgier\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj",
         "projectName": "BlazorGitHubPagesDemo",
-        "projectPath": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj",
-        "packagesPath": "C:\\Users\\A618150\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A618150\\source\\repos\\BlazorApp1\\BlazorGitHubPagesDemo\\obj\\",
+        "projectPath": "C:\\Users\\a618150\\Source\\Repos\\budgier\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj",
+        "packagesPath": "C:\\Users\\a618150\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a618150\\Source\\Repos\\budgier\\BlazorGitHubPagesDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\A618150\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a618150\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -42,28 +48,36 @@
           "dependencies": {
             "MediatR": {
               "target": "Package",
-              "version": "[12.1.1, )"
+              "version": "[12.2.0, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.4, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
               "target": "Package",
               "version": "[8.0.0, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0, )",
+              "version": "[8.0.2, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0, )",
+              "version": "[8.0.4, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -80,7 +94,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.0, 8.0.0]"
+              "version": "[8.0.4, 8.0.4]"
             }
           ],
           "frameworkReferences": {
@@ -88,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

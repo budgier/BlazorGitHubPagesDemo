@@ -1,0 +1,65 @@
+﻿@page "/wss"
+@inject IJSRuntime JSRuntime
+@using  System.Diagnostics
+@using Newtonsoft
+@inject ILogger<Wss> _logger
+
+
+<h3>WebSocket</h3>
+<input type="text" @bind="_message" />
+<button @onclick="() =>  SendMessage(_message)">Send to WebSockets</button>
+
+
+@code {
+    DotNetObjectReference<Wss>? objectReference;
+    private IJSObjectReference? _popupWindow;
+    private string _message = "";
+    
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        await JSRuntime.InvokeVoidAsync("open", "https://www.tipsport.sk", "_blank");
+
+        objectReference = DotNetObjectReference.Create(this);
+
+
+        await JSRuntime.InvokeVoidAsync("window.websocketFunctions.createWebSocket", "wss://www.tipsport.sk/socket.io/?EIO=3&transport=websocket");
+
+        await JSRuntime.InvokeVoidAsync("window.websocketFunctions.receive", objectReference);
+    }
+
+    public async Task SendMessage(string message)
+    {
+        // Console.WriteLine("napis spravu");
+        // _message = Console.ReadLine()!;
+       
+        await JSRuntime.InvokeVoidAsync("window.websocketFunctions.send", message);
+    }
+
+    [JSInvokable]
+    public void ReceiveMessage(string message)
+    {
+      //Console.WriteLine($"Received: {message}");
+      _logger.LogInformation($"Received: {message}");
+      ProcessMessage(message);
+      
+        // Handle the received message here
+    }
+
+    public void Dispose()
+    {
+        objectReference?.Dispose();
+    }
+
+    public void ProcessMessage(string message)
+    {
+    
+        // throw new NotImplementedException(message);
+    
+    }
+   
+}
+
+
+        
