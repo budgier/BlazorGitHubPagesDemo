@@ -1,62 +1,121 @@
 ﻿@page "/wss"
-@inject IJSRuntime JSRuntime
+@inject IJSRuntime  JSRuntime
 @using  System.Diagnostics
 @using Newtonsoft
 @inject ILogger<Wss> _logger
 
 
 <h3>WebSocket</h3>
+@* <h1>@odds</h1> *@
+
+
 <input type="text" @bind="_message" />
 <button @onclick="() =>  SendMessage(_message)">Send to WebSockets</button>
+<br />
+
+<input type="text" @bind="_match" />
+
+<button @onclick="() =>  xhr(_match)">xhr</button>
+
 
 
 @code {
-    DotNetObjectReference<Wss>? objectReference;
+    private  DotNetObjectReference<Wss>? objectReference;
     private IJSObjectReference? _popupWindow;
     private string _message = "";
-    
+    private string _match = "";
+    Newtonsoft.Json.Linq.JToken odds ;
+    private string ws = "";
+    private List<Newtonsoft.Json.Linq.JToken> matches = new List<Newtonsoft.Json.Linq.JToken>();
+    //private Newtonsoft.Json.JsonReader jsonReader = new Newtonsoft.Json.read;
+
+
+
+    public async Task xhr(string match)
+    {
+        await JSRuntime.InvokeVoidAsync("window.websocketFunctions.xhr", 
+        $"https://www.tipsport.sk/rest/offer/v3/live/matches/{match}/patches?withEventTables=true", true);
+    }
+
 
 
     protected override async Task OnInitializedAsync()
     {
-        await JSRuntime.InvokeVoidAsync("open", "https://www.tipsport.sk", "_blank");
+        await JSRuntime.InvokeVoidAsync("window.openAndCloseWindow", "https://www.tipsport.sk");
+        await Task.Delay(3000);
+
+
 
         objectReference = DotNetObjectReference.Create(this);
 
 
         await JSRuntime.InvokeVoidAsync("window.websocketFunctions.createWebSocket", "wss://www.tipsport.sk/socket.io/?EIO=3&transport=websocket");
-
+        await Task.Delay(3000);
         await JSRuntime.InvokeVoidAsync("window.websocketFunctions.receive", objectReference);
+        await JSRuntime.InvokeVoidAsync("window.websocketFunctions.receivePOST", objectReference);
+        await JSRuntime.InvokeVoidAsync("window.websocketFunctions.xhrPOST");
+
+        while (true)
+        {
+            await Task.Delay(25000);
+            await SendMessage("2");
+        }
+
     }
+
+
 
     public async Task SendMessage(string message)
     {
         // Console.WriteLine("napis spravu");
         // _message = Console.ReadLine()!;
-       
         await JSRuntime.InvokeVoidAsync("window.websocketFunctions.send", message);
     }
 
     [JSInvokable]
+    public void ReceiveMessageXhr(string message)
+
+    {
+        _logger.LogInformation($"Received: {message}");
+        ProcessMessage(message);
+    }
+
+
+    [JSInvokable]
     public void ReceiveMessage(string message)
     {
-      //Console.WriteLine($"Received: {message}");
-      _logger.LogInformation($"Received: {message}");
-      ProcessMessage(message);
-      
-        // Handle the received message here
+
+        _logger.LogInformation($"Received: {message}");
+
+
     }
+
+
 
     public void Dispose()
     {
         objectReference?.Dispose();
     }
 
-    public void ProcessMessage(string message)
+    public async void ProcessMessage(string message)
     {
-    
-        // throw new NotImplementedException(message);
-    
+        if (matches.Count > 0)
+        {
+            return;
+        }
+
+        Newtonsoft.Json.Linq.JObject json = Newtonsoft.Json.Linq.JObject.Parse(message);
+        matches.AddRange(json.SelectTokens("$.favourites[?(@.id==43)].sportCompetitions[:].offerMatches[:].id"));
+
+        for (int i=0; i<matches.Count; i++)
+        {
+        await xhr(matches[i].ToString());
+        await Task.Delay(100);
+        }
+        
+      
+        matches.ForEach(async (zap) => await SendMessage($"40/LMJPID{zap.ToString()}sk"));
+                                       
     }
    
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a618150\\Source\\Repos\\budgier\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj": {}
+    "C:\\Users\\a618150\\source\\repos\\budgier\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a618150\\Source\\Repos\\budgier\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj": {
+    "C:\\Users\\a618150\\source\\repos\\budgier\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a618150\\Source\\Repos\\budgier\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj",
+        "projectUniqueName": "C:\\Users\\a618150\\source\\repos\\budgier\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj",
         "projectName": "BlazorGitHubPagesDemo",
-        "projectPath": "C:\\Users\\a618150\\Source\\Repos\\budgier\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj",
+        "projectPath": "C:\\Users\\a618150\\source\\repos\\budgier\\BlazorGitHubPagesDemo\\BlazorGitHubPagesDemo.csproj",
         "packagesPath": "C:\\Users\\a618150\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a618150\\Source\\Repos\\budgier\\BlazorGitHubPagesDemo\\obj\\",
+        "outputPath": "C:\\Users\\a618150\\source\\repos\\budgier\\BlazorGitHubPagesDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\a618150\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,7 +72,7 @@
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.4, )",
+              "version": "[8.0.2, )",
               "autoReferenced": true
             },
             "Newtonsoft.Json": {
@@ -93,8 +93,20 @@
           "warn": true,
           "downloadDependencies": [
             {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.2, 8.0.2]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.2, 8.0.2]"
+            },
+            {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.4, 8.0.4]"
+              "version": "[8.0.2, 8.0.2]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.2, 8.0.2]"
             }
           ],
           "frameworkReferences": {
@@ -102,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.3.24204.13/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
