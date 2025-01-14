@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\BlazorGitHubPagesDemo.styles.css"
     },
     {
+      "Id": "C:\\Users\\a618150\\source\\repos\\budgier\\BlazorGitHubPagesDemo\\wwwroot\\FileName.cs",
+      "PackagePath": "staticwebassets\\FileName.cs"
+    },
+    {
       "Id": "C:\\Users\\a618150\\source\\repos\\budgier\\BlazorGitHubPagesDemo\\wwwroot\\JavaScript.js",
       "PackagePath": "staticwebassets\\JavaScript.js"
     },
@@ -79,6 +83,10 @@
     {
       "Id": "C:\\Users\\a618150\\source\\repos\\budgier\\BlazorGitHubPagesDemo\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorGitHubPagesDemo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorGitHubPagesDemo.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -19,6 +19,7 @@
 		
 		timer = new Timer(async _ =>
 		{
+			
 			await FetchData();
 			StateHasChanged();
 		}, null, TimeSpan.Zero, TimeSpan.FromSeconds(3));

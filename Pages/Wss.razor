@@ -82,12 +82,64 @@
 
 
     [JSInvokable]
-    public void ReceiveMessage(string message)
+    public async void ReceiveMessage(string message)
     {
-
         _logger.LogInformation($"Received: {message}");
 
+        if (string.IsNullOrEmpty(message))
+        {
+            OnInitializedAsync().Wait();
+        }
+        // ProcessReceivedMessage(message);
+    }
 
+    private void ProcessReceivedMessage(string message)
+    {
+        if (message.StartsWith("42/LMJPID"))
+        {
+            var jsonPart = message.Substring(message.IndexOf('['));
+            var jsonArray = Newtonsoft.Json.Linq.JArray.Parse(jsonPart);
+
+            foreach (var patch in jsonArray[1]["patch"])
+            {
+                var op = patch["op"].ToString();
+                var path = patch["path"].ToString();
+                var value = patch["value"];
+
+                // Process each operation accordingly
+                switch (op)
+                {
+                    case "replace":
+                        ReplaceValue(path, value);  
+                        break;
+                    case "copy":
+                        var from = patch["from"].ToString();
+                        CopyValue(from, path);
+                        break;
+                    case "add":
+                        AddValue(path, value);
+                        break;
+                }
+            }
+        }
+    }
+
+    private void ReplaceValue(string path, Newtonsoft.Json.Linq.JToken value)
+    {
+        // Implement the logic to replace the value at the specified path
+        _logger.LogInformation($"Replace {path} with {value}");
+    }
+
+    private void CopyValue(string from, string path)
+    {
+        // Implement the logic to copy the value from the specified path to the new path
+        _logger.LogInformation($"Copy from {from} to {path}");
+    }
+
+    private void AddValue(string path, Newtonsoft.Json.Linq.JToken value)
+    {
+        // Implement the logic to add the value at the specified path
+        _logger.LogInformation($"Add {value} to {path}");
     }
 
 
@@ -101,7 +153,7 @@
     {
         if (matches.Count > 0)
         {
-            return;
+            return ;
         }
 
         Newtonsoft.Json.Linq.JObject json = Newtonsoft.Json.Linq.JObject.Parse(message);
